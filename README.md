@@ -1,11 +1,11 @@
-# 🧠 Employee Income Prediction (Machine Learning Project)
+# Employee Income Prediction (Machine Learning Project)
 
 This project demonstrates a complete **machine learning pipeline** built with Python and scikit-learn.  
 It predicts **employee income** based on various demographic and job-related features, handling missing data and categorical encoding automatically.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The goal of this project is to:
 
@@ -19,7 +19,7 @@ This is an excellent beginner-friendly example of an **end-to-end supervised lea
 
 ---
 
-## 🧩 Features Used
+## Features Used
 
 - **pandas** for data loading and cleaning  
 - **scikit-learn** for preprocessing, pipeline creation, and model training  
@@ -28,7 +28,7 @@ This is an excellent beginner-friendly example of an **end-to-end supervised lea
 
 ---
 
-## 🧠 Machine Learning Workflow
+## Machine Learning Workflow
 
 1. **Load the dataset** from a public GitHub CSV file  
 2. **Clean the data**, ensuring the target variable (`income`) has no missing values  
@@ -42,7 +42,7 @@ This is an excellent beginner-friendly example of an **end-to-end supervised lea
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 | Library | Purpose |
 |----------|----------|
@@ -53,9 +53,10 @@ This is an excellent beginner-friendly example of an **end-to-end supervised lea
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/<your-username>/employee-income-prediction.git
    cd employee-income-prediction
+
